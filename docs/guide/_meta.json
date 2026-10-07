@@ -1,12 +1,5 @@
 [
-  {
-    "type": "dir-section-header",
-    "name": "start",
-    "label": "Getting Started"
-  },
-  {
-    "type": "dir-section-header",
-    "name": "use-mdx",
-    "label": "Markdown & MDX"
-  }
+  { "type": "file", "name": "index", "label": "**内容总览**" },
+  { "type": "dir-section-header", "name": "environment", "label": "环境安装" },
+  { "type": "dir-section-header", "name": "tool", "label": "工具推荐" }
 ]

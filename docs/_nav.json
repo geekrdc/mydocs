@@ -1,16 +1,11 @@
 [
   {
-    "text": "Guide",
-    "link": "/guide/start/introduction",
+    "text": "开始",
+    "link": "/guide/",
     "activeMatch": "/guide/"
   },
   {
-    "text": "API",
-    "link": "/api/",
-    "activeMatch": "/api/"
-  },
-  {
-    "text": "Document",
+    "text": "文档",
     "link": "https://rspress.rs/"
   }
 ]

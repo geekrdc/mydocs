@@ -8,7 +8,7 @@ hero:
   actions:
     - theme: brand
       text: 开始
-      link: /guide/start/introduction
+      link: /guide/
     - theme: alt
       text: GitHub
       link: https://github.com/geekrdc
@@ -19,5 +19,5 @@ features:
   - title: 开发环境搭建
     details: 包含Windows、Linux和Mac系统的各种开发环境、运行环境的搭建与运行
     icon: 🏃🏻
-    link: /guide/start/introduction
+    link: /guide/
 ---
